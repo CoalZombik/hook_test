@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/CoalZombik/hook_test.git",
   "author": "Lukáš Cezner <coalzombik@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ini": "^1.3.5"
+  }
 }
